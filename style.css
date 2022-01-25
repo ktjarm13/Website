@@ -15,11 +15,11 @@ h1 {padding: 30px;
     color: white;
     font-size: 30px;}
 
-h2 {margin: 0px 0px 0px 180px}
+h2 {margin: 0px 0px 0px 35%;}
 h3 {margin: 0px 0px 0px 180px}
 p {margin: 0px 300px 0px 180px;
     text-align:justify;}
-img {margin: 0px 0px 0px 180px;}
+img {margin: 0px 0px 0px 30%;}
 
 .columns {
     display: flex;}
