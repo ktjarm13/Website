@@ -5,6 +5,9 @@ font-family: sans-serif;
 color:snow;}
 
 body {background-color:rgb(25, 31, 37) ;}
+.main-content {width:500px;
+                padding: 20px;
+                margin: 30px 0 0 0;}
 
 h1 {padding: 30px;
     text-align: center;
@@ -13,6 +16,7 @@ h1 {padding: 30px;
     font-size: 30px;}
 
 h2 {margin: 0px 0px 0px 180px}
+h3 {margin: 0px 0px 0px 180px}
 p {margin: 0px 300px 0px 180px;
     text-align:justify;}
 img {margin: 0px 0px 0px 180px}
