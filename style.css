@@ -21,15 +21,12 @@ p {margin: 0px 300px 0px 180px;
     text-align:justify;}
 img {margin: 0px 0px 0px 180px}
 
-.column {
-    float: left;
-    width: 50%;}
+.columns {
+    display: flex;}
 
- 
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;}
+.columns > div {flex:1;}
+
+
 
 ul {height: 100%; 
     width: 160px; 
